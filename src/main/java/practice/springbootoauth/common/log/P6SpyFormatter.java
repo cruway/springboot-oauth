@@ -1,4 +1,4 @@
-package com.example.springsecurity.common.log;
+package practice.springbootoauth.common.log;
 
 import com.p6spy.engine.common.ConnectionInformation;
 import com.p6spy.engine.event.JdbcEventListener;

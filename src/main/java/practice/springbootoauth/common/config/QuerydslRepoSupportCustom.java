@@ -1,4 +1,4 @@
-package com.example.springsecurity.common.config;
+package practice.springbootoauth.common.config;
 
 import com.querydsl.core.types.EntityPath;
 import com.querydsl.core.types.Expression;
